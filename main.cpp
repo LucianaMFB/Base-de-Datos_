@@ -33,7 +33,7 @@ int main()
 	PrendaView vista_prenda(controlador_prenda);
 	
 	
-	vista_prenda.Parte_visual();;
+	vista_prenda.Parte_visual();
 	
 	
 	
